@@ -1,0 +1,7 @@
+.Calc{
+    background-color: rgb(10, 45, 81);
+    color: rgb(255, 255, 255);
+    border: 10px double rgb(255, 255, 255);
+    padding: 50px 50px;
+    font-size: 100%;
+}
